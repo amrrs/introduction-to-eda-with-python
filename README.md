@@ -9,3 +9,8 @@ Introduction to EDA with Python Session Files
 * Download the input data from (clicking this link will download the file) [Kaggle](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey/downloads/survey_results_public.csv/2), save it and unzip the csv in the same folder where you have repo contents
 * Open your terminal / shell and go to this repo folder and run `jupyter notebook` and click/open `introduction-to-eda-with-python.ipynb` file
 * Run all the cells to see if everything works fine
+
+
+### Licensing:
+
+My code is distributed under [MIT License](LICENSE) and the dataset license is as it is in the original source license, [Kaggle](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey)
