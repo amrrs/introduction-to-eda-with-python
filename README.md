@@ -13,4 +13,4 @@ Introduction to EDA with Python Session Files
 
 ### Licensing:
 
-My code is distributed under [MIT License](LICENSE) and the dataset license is as it is in the original source license, [Kaggle](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey)
+My code is distributed under [MIT License](LICENSE) and the dataset license is as it is in the original source [Kaggle](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey) License
