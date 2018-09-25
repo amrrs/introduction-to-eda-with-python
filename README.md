@@ -10,6 +10,7 @@ Introduction to EDA with Python Session Files
 * Open your terminal / shell and go to this repo folder and run `jupyter notebook` and click/open `introduction-to-eda-with-python.ipynb` file
 * Run all the cells to see if everything works fine
 
+If you don't want to do any of this above and want to try this online, Here's the [Kaggle Kernel](https://www.kaggle.com/nulldata/introduction-to-eda-with-python) where you can just log in and start running the notebook. 
 
 ### Licensing:
 
